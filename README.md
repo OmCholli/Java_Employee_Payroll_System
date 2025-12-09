@@ -48,3 +48,11 @@ Menu-driven program implemented using `Scanner`.
 
 ## 📂 Project Structure
 
+- **src/**
+  - `Employee.java`
+  - `FullTimeEmployee.java`
+  - `PartTimeEmployee.java`
+  - `PayrollSystem.java`
+  - `Main.java`
+
+
